@@ -3,9 +3,11 @@
 IMPORTANT: You NEED to have downloaded Greenfoot for this!
 1. Go to https://www.greenfoot.org/download and install Greenfoot for your platform (if you don't already have Greenfoot).
 2. Install the .gfar file above.
-3. Open the .gfar file.
+3. Open the .gfar file (This may take a little to load because of the number of images).
 4. Hit "Run" at the bottom.
 5. Enjoy!
+
+Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepid, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
 ## Details
 This essentially a Sporcle quiz copy. I couldn't find a non-landmine version of this quiz... so I made it myself! You are given a pokemon on the bottom left corner in text. Choose the correct pokemon and you are awarded a point. If you don't get it right, too bad! The game moves onto the next pokemon. The game ends once you've gone through all pokemon in that generation. 
