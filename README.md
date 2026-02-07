@@ -7,8 +7,9 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
 4. Follow this link to download the zipped image files: https://drive.google.com/file/d/1_7IOrdbb1V-X8ZDigzh_pJr-SAogwNyy/view?usp=sharing
 5. Unzip ClickThatPokemon.zip once it's finished downloading.
 6. Move the images.zip into the ClickThatPokemon folder, then unzip it (images.zip).
-    - Depending on how your device unzips this, you might get a nested file situation (ie: ClickThatPokemon/images/images/[all the images]
-    - If this happens, you MUST move all the images to the top most images foler (ie: directory should look like ClickThatPokemon/images/[all the images]
+    - Depending on how your device unzips this, you might get a nested file situation (ie: ClickThatPokemon/images/images/[all the images].
+    - If this happens, you MUST move all the images to the top most images foler (ie: directory should look like ClickThatPokemon/images/[all the images].
+    - Also make sure you remove the old zipped folder (if you still have it) from the directory.
 8. Open Greenfoot.
 9. At the top, press Scenario -> Open. Locate the ClickThatPokemon folder you just downloaded and modifed. Open/Select that folder.
 10. Let the scenario configure. This may take a while.
