@@ -4,7 +4,7 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
 1. Go to https://www.greenfoot.org/download and install Greenfoot for your platform (if you don't already have Greenfoot).
 2. Download the .zip file above.
     - (How do I do this?) Click on the .zip file. There should be a small download button on the top right next to the "Raw" button.
-4. Follow this link to download the zipped image files: https://drive.google.com/file/d/1_7IOrdbb1V-X8ZDigzh_pJr-SAogwNyy/view?usp=sharing
+4. Follow this link to download the zipped image files: https://drive.google.com/file/d/1jNZkqKl_bbwPd3m79Wf6HIe5KNXgBXJp/view?usp=sharing
 5. Unzip ClickThatPokemon.zip once it's finished downloading.
 6. Move the images.zip into the ClickThatPokemon folder, then unzip it (images.zip).
     - Depending on how your device unzips this, you might get a nested file situation (ie: ClickThatPokemon/images/images/[all the images].
