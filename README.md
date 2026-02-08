@@ -2,19 +2,11 @@
 ## Download Instructions
 IMPORTANT: You NEED to have downloaded Greenfoot for this!
 1. Go to https://www.greenfoot.org/download and install Greenfoot for your platform (if you don't already have Greenfoot).
-2. Download the .zip file above.
-    - (How do I do this?) Click on the .zip file. There should be a small download button on the top right next to the "Raw" button.
-4. Follow this link to download the zipped image files: https://drive.google.com/file/d/1jNZkqKl_bbwPd3m79Wf6HIe5KNXgBXJp/view?usp=sharing
-5. Unzip ClickThatPokemon.zip once it's finished downloading.
-6. Move the images.zip into the ClickThatPokemon folder, then unzip it (images.zip).
-    - Depending on how your device unzips this, you might get a nested file situation (ie: ClickThatPokemon/images/images/[all the images].
-    - If this happens, you MUST move all the images to the top most images foler (ie: directory should look like ClickThatPokemon/images/[all the images].
-    - Also make sure you remove the old zipped folder (if you still have it) from the directory.
-8. Open Greenfoot.
-9. At the top, press Scenario -> Open. Locate the ClickThatPokemon folder you just downloaded and modifed. Open/Select that folder.
-10. Let the scenario configure. This may take a while.
-11. Once it's finished configuring, hit "Run" at the bottom to start the game. 
-12. Enjoy!
+2. Download the .gfar file above.
+    - (How do I do this?) Click on the .gfar file. There should be a small download button for it on the top right next to the "Raw" button.
+4. Open the file and let the scenario configure. This may take a while.
+5. Once it's finished configuring, hit "Run" at the bottom to start the game. 
+6. Enjoy!
 
 Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepid, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
@@ -26,10 +18,10 @@ I was originally going to export this to Greenfoot (hence why I used Greenfoot l
 All Pokemon image credits go to Nintendo/Game Freak.
 
 ## Updates/Patch Notes:
-This file got even bigger than it was before. I was no longer able to simply just upload the .gfar file anymore (4.2 GB, yikes). Instead everyone now has to follow a slightly more complicated 10 step program (sorry). 
+The .gfar file is back now! Game is faster when loading JPEGs too.
 
 Version 2.0:
 - Included a "results" button on the game over screen to display results of your quiz.
 - Updated generation selection page to include all the same art style (earlier image was just a bunch of images I found off Google. I'm now using the proper sprites I got from that mega zip).
+  - Everything is now a JPEG! (except custom cursor)
 - Fixed a few minor bugs.
-- Code documentation.
