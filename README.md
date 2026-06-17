@@ -11,7 +11,7 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
 Option 2: Just play on it Greenfoot!
 https://www.greenfoot.org/scenarios/36079
 
-Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepid, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
+Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepit, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
 ## Details
 This essentially a Sporcle quiz copy. I couldn't find a non-landmine version of this quiz... so I made it myself! You are given a pokemon on the bottom left corner in text. Choose the correct pokemon and you are awarded a point. If you don't get it right, too bad! The game moves onto the next pokemon. The game ends once you've gone through all pokemon in that generation. 
