@@ -31,3 +31,10 @@ Version 2.0:
 
 Version 3.0:
 - Now using sprite pages instead of individual pokemon images. (Greenfoot supports me again! :)
+
+Version 3.1: 
+- Added music. (and fixed up sound effects for results page) -> This unfortunately makes the file too big for Greenfoot again...
+- Created new graphic for the pause menu.
+- Pause menu now has a "Give up button".
+- Added shortcut keys (arrow keys or A & D for page changing) also removed "G" for give up.
+    - Technically the shortcut keys aren't new addition (as I removed "G" which didn't exist before), but I'm not sure if I included it into the GitHub upload and/or changelog. 
