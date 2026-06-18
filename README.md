@@ -9,7 +9,7 @@ IMPORTANT: You NEED to have downloaded Greenfoot for this!
 6. Enjoy!
 
 Option 2: Just play on it Greenfoot!
-https://www.greenfoot.org/scenarios/36079
+https://www.greenfoot.org/scenarios/36079 (older version with fewer features)
 
 Note: If the overall game in Greenfoot looks small to you: its like that. I made this on my laptop (with a very small screen) so that's being reflected in the Greenfoot project! Since Greenfoot is old and decrepit, you can't zoom! Enjoy my 1000 by 600 game because my laptop is small and Greenfoot doesn't allow zooming. 
 
