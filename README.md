@@ -39,6 +39,6 @@ Version 3.1:
 - Added shortcut keys (arrow keys or A & D for page changing) also removed "G" for give up.
     - Technically the shortcut keys aren't new addition (as I removed "G" which didn't exist before), but I'm not sure if I included it into the GitHub upload and/or changelog.
  
-  Version 3.2: 
+Version 3.2: 
   - WOAH new stuff?? Yes, but also no, because part of it is finished, but it's very buggy. 
   - The proper version 4.0 will include the second half of the new content + also cleanup the code since it's such a mess.
