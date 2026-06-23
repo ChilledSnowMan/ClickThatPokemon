@@ -40,5 +40,12 @@ Version 3.1:
     - Technically the shortcut keys aren't new addition (as I removed "G" which didn't exist before), but I'm not sure if I included it into the GitHub upload and/or changelog.
  
 Version 3.2: 
-  - WOAH new stuff?? Yes, but also no, because part of it is finished, but it's very buggy. 
-  - The proper version 4.0 will include the second half of the new content + also cleanup the code since it's such a mess.
+- WOAH new stuff?? Yes, but also no, because part of it is finished, but it's very buggy. 
+- The proper version 4.0 will include the second half of the new content + also cleanup the code since it's such a mess.
+
+Version 4.0: 
+- Added two new gamemodes: Silhouette and Type Guesser
+    - Silhouette is the classic "Guess that pokemon"-type game. You're given a pokemon shadow and you type in your guess who it is
+    - Type Guesser is similar to Silhouette, but instead you need to guess the types per Pokemon
+- General cleanup of the code. Like I mentioned previously, things were a MESS. I spent a good chunk of time just refactoring and applying general OOP to things I was cutting corners on
+- Removed some music options and added title page music. This means Greenfoot can support me once again!
