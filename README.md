@@ -46,6 +46,8 @@ Version 3.2:
 Version 4.0: 
 - Added two new gamemodes: Silhouette and Type Guesser
     - Silhouette is the classic "Guess that pokemon"-type game. You're given a pokemon shadow and you type in your guess who it is
-    - Type Guesser is similar to Silhouette, but instead you need to guess the types per Pokemon
-- General cleanup of the code. Like I mentioned previously, things were a MESS. I spent a good chunk of time just refactoring and applying general OOP to things I was cutting corners on
+    - Type Guesser is similar to Silhouette, but instead you need to guess the types per Pokemon.
+- General cleanup of the code. Like I mentioned previously, things were a MESS. I spent a good chunk of time just refactoring and applying general OOP to things I was cutting corners on.
 - Removed some music options and added title page music. This means Greenfoot can support me once again!
+- Added a settings menu where you can change the music settings.
+- A lot of QoL I can't remember.
